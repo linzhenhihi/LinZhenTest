@@ -27,9 +27,5 @@ namespace InterviewProject.Controllers
             return View();
         }
 
-        public ActionResult TestGit()
-        {
-            return View();
-        }
     }
 }
