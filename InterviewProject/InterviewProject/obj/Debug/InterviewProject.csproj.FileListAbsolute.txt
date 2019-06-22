@@ -80,8 +80,12 @@ C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\zh-Han
 C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\zh-Hant\System.Web.WebPages.resources.dll
 C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csprojAssemblyReference.cache
 C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csproj.CoreCompileInputs.cache
 C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csproj.CopyComplete
 C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\obj\Debug\InterviewProject.dll
 C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\obj\Debug\InterviewProject.pdb
+C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\EntityFramework.dll
+C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\EntityFramework.SqlServer.dll
+C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\EntityFramework.xml
+C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\EntityFramework.SqlServer.xml
+C:\Net_Training\InterviewRepository\InterviewProject\InterviewProject\bin\zh-Hant\EntityFramework.resources.dll
